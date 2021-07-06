@@ -1,0 +1,32 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    margin: 0px;
+}
+span{
+    color: orange;
+}
+small{
+    font-size: 20px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 55%;
+}
+.half-width img{
+    width: 50%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    font-weight: 700;
+    padding: 10px 30px;
+    text-size-adjust: 10px;
+    border-radius: 60%;
+ }
+ .background-img{
+     background-image: url(Frame\ 57.jpg);
+    
+ }
